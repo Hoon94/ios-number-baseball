@@ -37,7 +37,9 @@
 </br>
 
 ## 👀 시각화된 프로젝트 구조
-<center><img width="600" height="1600" src="https://i.imgur.com/ARX3ccH.png"></center>
+<p align="center">
+<img width="800" src="https://i.imgur.com/ARX3ccH.png">
+</p>
 
 </br>
 
@@ -45,7 +47,7 @@
 
 | 사용자 승리 | 컴퓨터 승리 | 잘못된 입력 |
 |:--:|:--:|:--:|
-|<img src="https://i.imgur.com/UnHB0MB.gif" width="300">|<img src="https://i.imgur.com/2UBfLwN.gif" width="300">|<img src="https://i.imgur.com/Qm0VppF.gif" width="300">|
+|<img src="https://i.imgur.com/vKv9yJ5.gif" width="300">|<img src="https://i.imgur.com/Y6H8ar2.gif" width="300">|<img src="https://i.imgur.com/a0uzuGW.gif" width="300">|
 
 </br>
 
